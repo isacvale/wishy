@@ -1,0 +1,16 @@
+{
+  "name": "wishy",
+  "version": "1.0.0",
+  "description": "Simplistic dynamic script loader for vanilla apps.",
+  "main": "wishy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamic",
+    "scripts",
+    "loader"
+  ],
+  "author": "isacvale",
+  "license": "ISC"
+}
